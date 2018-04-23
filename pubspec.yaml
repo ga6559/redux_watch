@@ -1,6 +1,6 @@
 name: redux_watch
 description: A starting point for Dart libraries or applications.
-version: 0.1.2
+version: 0.2.0
 homepage: "https://github.com/ga6559/redux_watch"
 author: Gustavo <ga6559@gmail.com>
 
